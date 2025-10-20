@@ -10,3 +10,17 @@ Zum kopieren:
 
 Dieses Projekt dann in Android Studio öffnen.
 
+## Vorgehen
+
+### 1. Grundlegende Interaktion im Widget (`WaterCounterWidget.kt`)
+
+### 2. Anzeige des Zählerstands in der Haupt-App (`MainActivity.kt`)
+
+### 3. Periodische Benachrichtigungen einrichten (`NotificationHelper.kt` & `NotificationWorker.kt`)`
+
+---
+
+#### Das genauere Vorgehen ist in Form von Kommentaren im Code erklärt.
+
+#### Ein Grundlegendes Framework wird gestellt.
+
